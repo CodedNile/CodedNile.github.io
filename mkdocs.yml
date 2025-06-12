@@ -40,15 +40,13 @@ plugins:
 
 
   - git-committers:
-      enabled: true
       repository: CodedNile/CodedNile.github.io
       branch: main
       token: !ENV GH_TOKEN
   - git-revision-date-localized:
       type: date
-      fallback-to_build_date: false
+      fallback_to_build_date: false
       enable_creation_date: true
-      enable: true
 
 extra:
   social:

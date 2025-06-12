@@ -66,3 +66,4 @@ tmp
 # IDEs & Editors
 .idea
 *~
+.env
