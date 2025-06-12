@@ -4,6 +4,7 @@ site_url: https://sitename.example
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: slate
       primary: deep orange
@@ -37,6 +38,18 @@ plugins:
         as_creation: date.created
         as_update: date.updated
 
+
+  - git-committers:
+      enabled: true
+      repository: CodedNile/CodedNile.github.io
+      branch: main
+      token: !ENV GH_TOKEN
+  - git-revision-date-localized:
+      type: date
+      fallback-to_build_date: false
+      enable_creation_date: true
+      enable: true
+
 extra:
   social:
     - icon: simple/youtube
@@ -44,7 +57,7 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Poula-Ashraf-Ramzy
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/poula-ashraf-6a15422a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+      link: https://www.linkedin.com/in/poula-ashraf-6a15422a5
 hooks:
   - hooks/socialmedia.py
 markdown_extensions:
