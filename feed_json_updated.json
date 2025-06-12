@@ -1,30 +1,16 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "CodedNile",
-    "home_page_url": "https://sitename.example/",
-    "feed_url": "https://sitename.example/feed_json_updated.json",
+    "home_page_url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/",
+    "feed_url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_json_updated.json",
     "description": "Welcome to my channel",
     "icon": null,
     "authors": [],
     "language": "en",
     "items": [
         {
-            "id": "https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/",
-            "url": "https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/",
-            "title": "\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0648\u064a\u0646\u062f\u0648\u0632\u061f",
-            "content_html": "<h1>\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0648\u064a\u0646\u062f\u0648\u0632\u061f</h1>\n<p>Welcome to <strong>CodedNile</strong></p>",
-            "image": null,
-            "date_modified": "2025-12-06T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "poula"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/",
-            "url": "https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/",
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/",
             "title": "\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0644\u064a\u0646\u0643\u0633\u061f",
             "content_html": "<h1>\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0644\u064a\u0646\u0643\u0633\u061f</h1>\n<p>Welcome to <strong>CodedNile</strong></p>",
             "image": null,
@@ -37,42 +23,56 @@
             "tags": null
         },
         {
-            "id": "https://sitename.example/category/before-the-programming/",
-            "url": "https://sitename.example/category/before-the-programming/",
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/",
+            "title": "\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0648\u064a\u0646\u062f\u0648\u0632\u061f",
+            "content_html": "<h1>\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0648\u064a\u0646\u062f\u0648\u0632\u061f</h1>",
+            "image": null,
+            "date_modified": "2025-12-06T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "poula"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/",
             "title": "Before the Programming",
             "content_html": "<h1>Before the Programming</h1>",
             "image": null,
-            "date_modified": "2025-06-12T14:52:44.271833+00:00",
+            "date_modified": "2025-06-12T16:55:24.549440+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://sitename.example/archive/2025/",
-            "url": "https://sitename.example/archive/2025/",
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/",
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2025-06-12T14:52:44.268647+00:00",
+            "date_modified": "2025-06-12T16:55:24.546423+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://sitename.example/",
-            "url": "https://sitename.example/",
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/",
             "title": "Welcome to my CodedNile",
-            "content_html": "<h1>Welcome to my CodedNile</h1>\n<p>For full documentation visit <a href=\"https://www.mkdocs.org\">mkdocs.org</a>.</p>\n<h2>Commands</h2>\n<ul>\n<li><code>mkdocs new [dir-name]</code> - Create a new project....</li>\n</ul>",
+            "content_html": "<h1>Welcome to my CodedNile</h1>",
             "image": null,
-            "date_modified": "2025-06-12T14:52:12+00:00",
+            "date_modified": "2025-06-12T16:54:38+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://sitename.example/tags/",
-            "url": "https://sitename.example/tags/",
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/",
             "title": "Tags",
-            "content_html": "<h2><span class=\"md-tag\">technology</span></h2>\n<ul>\n<li><a href=\"posts/Before the Programming/firstpost.md\">\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0648\u064a\u0646\u062f\u0648\u0632\u061f</a></li>\n<li>[\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0644\u064a\u0646\u0643\u0633\u061f](posts/Before the Programming/...</li>\n</ul>",
+            "content_html": "<h2><span class=\"md-tag\">technology</span></h2>\n<ul>\n<li><a href=\"posts/Before the Programming/\u0627\u064a\u0647-\u0627\u0644\u0644\u064a\u0646\u0643\u0633-\u062f\u0627.md\">\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0644\u064a\u0646\u0643\u0633\u061f</a></li>\n<li>[\u0627\u064a\u0647 \u0647\u0648 \u0627\u0644\u0648\u064a\u0646\u062f\u0648\u0632\u061f](posts/Before the Program...</li>\n</ul>",
             "image": null,
-            "date_modified": "2025-06-12T14:52:12+00:00",
+            "date_modified": "2025-06-12T16:54:38+00:00",
             "authors": [],
             "tags": null
         }

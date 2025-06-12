@@ -4,8 +4,8 @@
     
     <title>CodedNile</title>
     <description>Welcome to my channel</description>
-    <link>https://sitename.example/</link>
-    <atom:link href="https://sitename.example/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/</link>
+    <atom:link href="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
 
     
     
@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Thu, 12 Jun 2025 14:52:44 -0000</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 14:52:44 -0000</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 16:55:24 -0000</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 16:55:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -24,26 +24,6 @@
     
 
     
-    
-    <item>
-      <title>ايه هو الويندوز؟</title>
-      
-      
-        
-      <author>poula</author>
-        
-      
-      
-      
-      <description>&lt;h1&gt;ايه هو الويندوز؟&lt;/h1&gt;
-&lt;p&gt;Welcome to &lt;strong&gt;CodedNile&lt;/strong&gt;&lt;/p&gt;</description>
-      <link>https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
-      
-      <guid isPermaLink="true">https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/</guid>
-      
-    </item>
     
     <item>
       <title>ايه هو اللينكس؟</title>
@@ -57,11 +37,30 @@
       
       <description>&lt;h1&gt;ايه هو اللينكس؟&lt;/h1&gt;
 &lt;p&gt;Welcome to &lt;strong&gt;CodedNile&lt;/strong&gt;&lt;/p&gt;</description>
-      <link>https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/</link>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
-      <guid isPermaLink="true">https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/</guid>
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/</guid>
+      
+    </item>
+    
+    <item>
+      <title>ايه هو الويندوز؟</title>
+      
+      
+        
+      <author>poula</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;ايه هو الويندوز؟&lt;/h1&gt;</description>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/</guid>
       
     </item>
     
@@ -72,11 +71,11 @@
       
       
       <description>&lt;h1&gt;Before the Programming&lt;/h1&gt;</description>
-      <link>https://sitename.example/category/before-the-programming/</link>
-      <pubDate>Thu, 12 Jun 2025 14:52:44 +0000</pubDate>
-      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/</link>
+      <pubDate>Thu, 12 Jun 2025 16:55:24 +0000</pubDate>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
-      <guid isPermaLink="true">https://sitename.example/category/before-the-programming/</guid>
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/</guid>
       
     </item>
     
@@ -87,11 +86,11 @@
       
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
-      <link>https://sitename.example/archive/2025/</link>
-      <pubDate>Thu, 12 Jun 2025 14:52:44 +0000</pubDate>
-      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/</link>
+      <pubDate>Thu, 12 Jun 2025 16:55:24 +0000</pubDate>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
-      <guid isPermaLink="true">https://sitename.example/archive/2025/</guid>
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/</guid>
       
     </item>
     
@@ -101,17 +100,12 @@
       
       
       
-      <description>&lt;h1&gt;Welcome to my CodedNile&lt;/h1&gt;
-&lt;p&gt;For full documentation visit &lt;a href=&#34;https://www.mkdocs.org&#34;&gt;mkdocs.org&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Commands&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;mkdocs new [dir-name]&lt;/code&gt; - Create a new project....&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <link>https://sitename.example/</link>
-      <pubDate>Thu, 12 Jun 2025 14:52:12 +0000</pubDate>
-      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      <description>&lt;h1&gt;Welcome to my CodedNile&lt;/h1&gt;</description>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/</link>
+      <pubDate>Thu, 12 Jun 2025 16:54:38 +0000</pubDate>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
-      <guid isPermaLink="true">https://sitename.example/</guid>
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/</guid>
       
     </item>
     
@@ -123,14 +117,14 @@
       
       <description>&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;technology&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;posts/Before the Programming/firstpost.md&#34;&gt;ايه هو الويندوز؟&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[ايه هو اللينكس؟](posts/Before the Programming/...&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;posts/Before the Programming/ايه-اللينكس-دا.md&#34;&gt;ايه هو اللينكس؟&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[ايه هو الويندوز؟](posts/Before the Program...&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <link>https://sitename.example/tags/</link>
-      <pubDate>Thu, 12 Jun 2025 14:52:12 +0000</pubDate>
-      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/</link>
+      <pubDate>Thu, 12 Jun 2025 16:54:38 +0000</pubDate>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
-      <guid isPermaLink="true">https://sitename.example/tags/</guid>
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/</guid>
       
     </item>
     
