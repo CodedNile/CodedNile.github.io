@@ -1,0 +1,55 @@
+site_name: CodedNile
+site_description: Welcome to my channel
+site_url: https://sitename.example
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep orange
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+    - scheme: default
+      primary: blue
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+plugins:
+  - search
+  - blog:
+      blog_dir: .
+      archive_date_format: yyyy
+      archive_url_date_format: yyyy
+      categories_allowed:
+        - Before the Programming
+      post_url_format: "{slug}"
+  - tags:
+      tags_file: tags.md
+  - rss:
+      match_path: ".*"
+      pretty_print: true
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+
+extra:
+  social:
+    - icon: simple/youtube
+      link: https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Poula-Ashraf-Ramzy
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/poula-ashraf-6a15422a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+hooks:
+  - hooks/socialmedia.py
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
