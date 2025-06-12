@@ -430,16 +430,33 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      تنويه
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
       Summary
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Summary">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      Commands
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#the-important-applications" class="md-nav__link">
     <span class="md-ellipsis">
       The Important Applications
@@ -447,9 +464,13 @@
   </a>
   
 </li>
-        
-      </ul>
-    </nav>
+      
+        <li class="md-nav__item">
+  <a href="#the-shortcuts" class="md-nav__link">
+    <span class="md-ellipsis">
+      The ShortCuts
+    </span>
+  </a>
   
 </li>
       
@@ -513,13 +534,6 @@
                       </div>
                     </li>
                     
-                      <li class="md-nav__item">
-                        <div class="md-nav__link">
-                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 13h1.5v2.82l2.44 1.41-.75 1.3L15 16.69zm4-5H5v11h4.67c-.43-.91-.67-1.93-.67-3a7 7 0 0 1 7-7c1.07 0 2.09.24 3 .67zM5 21a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h1V1h2v2h8V1h2v2h1a2 2 0 0 1 2 2v6.1c1.24 1.26 2 2.99 2 4.9a7 7 0 0 1-7 7c-1.91 0-3.64-.76-4.9-2zm11-9.85A4.85 4.85 0 0 0 11.15 16c0 2.68 2.17 4.85 4.85 4.85A4.85 4.85 0 0 0 20.85 16c0-2.68-2.17-4.85-4.85-4.85"/></svg>
-                          <time datetime="2025-12-06 00:00:00+00:00" class="md-ellipsis">December 6, 2025</time>
-                        </div>
-                      </li>
-                    
                     
                       <li class="md-nav__item">
                         <div class="md-nav__link">
@@ -572,31 +586,33 @@
 
 
 <h1 id="_1">ايه هو الويندوز؟</h1>
-<!-- more -->
-
 <p>في ناس كتير بتكون لسه جديدة في التعامل مع الويندوز، مش عارفة تبدأ منين، تنزل إيه، أو حتى تستخدم إيه فا دا شرح مبسط عن الويندوز</p>
+<p>أي جهاز في الدنيا – طول ما فيه معالج فيه تقدر تبرمج عليه وتتعلم عليه. مش لازم جهاز خارق! لو جهازك قديم، نزّل عليه لينكس وخلاص، الدنيا هتمشي</p>
+<h2 id="_2">تنويه</h2>
+<p>نسيت اقول انك اول برنامج هتحمله من المتصفح </p>
+<p><strong>Microsoft Edge</strong></p>
 <h2 id="summary">Summary</h2>
 <ul>
 <li>Update Windows / Drivers</li>
 <li>Personalization</li>
-<li>Commands
-To reset the menu Items</li>
 </ul>
+<h2 id="commands">Commands</h2>
+<p>To reset the menu Items</p>
 <pre><code class="language-bash">reg add &quot;HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32&quot; /f /ve
 </code></pre>
 <p>Uninstall Widget</p>
 <pre><code class="language-bash">winget uninstall windows web experience pack
-
-Get-AppxPackage *WebExperience* | Remove-AppxPackage
-
-winget uninstall --id 9MSSGKG348SP
+</code></pre>
+<pre><code class="language-bash">Get-AppxPackage *WebExperience* | Remove-AppxPackage
+</code></pre>
+<pre><code class="language-bash">winget uninstall --id 9MSSGKG348SP
 </code></pre>
 <p>Cleanless</p>
 <pre><code class="language-bash">iwr -useb https://christitus.com/win | iex
-
-https://github.com/builtbybel/Bloatynosy/releases
 </code></pre>
-<h5 id="the-important-applications">The Important Applications</h5>
+<pre><code class="language-bash">https://github.com/builtbybel/Bloatynosy/releases
+</code></pre>
+<h2 id="the-important-applications">The Important Applications</h2>
 <ul>
 <li>Brave</li>
 <li>Discord</li>
@@ -606,6 +622,20 @@ https://github.com/builtbybel/Bloatynosy/releases
 <li>Winrar</li>
 <li>Pdf24</li>
 <li>QQplayer</li>
+</ul>
+<h2 id="the-shortcuts">The ShortCuts</h2>
+<ul>
+<li>Ctrl + Z = Undo</li>
+<li>Ctrl + X = Cut</li>
+<li>Ctrl + C = Copy</li>
+<li>Ctrl + V = Paste</li>
+<li>Ctrl + A = Select All</li>
+<li>Ctrl + S = Save</li>
+<li>Ctrl + F = Find</li>
+<li>Win + Shift + S = Screen Shot</li>
+<li>Alt + Tab = Change The Window</li>
+<li>Ctrl + Space = Change The language</li>
+<li>Win + num = Open the Program in Shortcut bar according to its order</li>
 </ul>
 <div style="text-align: center; margin-top: 2em;">
   <h2 style="text-align: center; font-weight: bold; text-decoration: underline; color: #fff;">
