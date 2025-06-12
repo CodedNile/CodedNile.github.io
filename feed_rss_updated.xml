@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>CodedNile</title>
+    <description>Welcome to my channel</description>
+    <link>https://sitename.example/</link>
+    <atom:link href="https://sitename.example/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Thu, 12 Jun 2025 14:52:44 -0000</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 14:52:44 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.16.0</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>ايه هو الويندوز؟</title>
+      
+      
+        
+      <author>poula</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;ايه هو الويندوز؟&lt;/h1&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;CodedNile&lt;/strong&gt;&lt;/p&gt;</description>
+      <link>https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/</guid>
+      
+    </item>
+    
+    <item>
+      <title>ايه هو اللينكس؟</title>
+      
+      
+        
+      <author>poula</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;ايه هو اللينكس؟&lt;/h1&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;CodedNile&lt;/strong&gt;&lt;/p&gt;</description>
+      <link>https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://sitename.example/%D8%A7%D9%8A%D9%87-%D9%87%D9%88-%D8%A7%D9%84%D9%84%D9%8A%D9%86%D9%83%D8%B3/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Before the Programming</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Before the Programming&lt;/h1&gt;</description>
+      <link>https://sitename.example/category/before-the-programming/</link>
+      <pubDate>Thu, 12 Jun 2025 14:52:44 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://sitename.example/category/before-the-programming/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2025</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
+      <link>https://sitename.example/archive/2025/</link>
+      <pubDate>Thu, 12 Jun 2025 14:52:44 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://sitename.example/archive/2025/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Welcome to my CodedNile</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Welcome to my CodedNile&lt;/h1&gt;
+&lt;p&gt;For full documentation visit &lt;a href=&#34;https://www.mkdocs.org&#34;&gt;mkdocs.org&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;mkdocs new [dir-name]&lt;/code&gt; - Create a new project....&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://sitename.example/</link>
+      <pubDate>Thu, 12 Jun 2025 14:52:12 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://sitename.example/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      
+      
+      
+      
+      <description>&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;technology&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;posts/Before the Programming/firstpost.md&#34;&gt;ايه هو الويندوز؟&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[ايه هو اللينكس؟](posts/Before the Programming/...&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://sitename.example/tags/</link>
+      <pubDate>Thu, 12 Jun 2025 14:52:12 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://sitename.example/tags/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
