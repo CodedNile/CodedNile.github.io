@@ -6,6 +6,7 @@ categories:
   - Before the Programming  
 tags:
   - Before the Programming
+  - vsCode
 authors:
   - poula      
 ---
