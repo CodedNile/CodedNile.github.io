@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Sun, 15 Jun 2025 09:42:14 -0000</pubDate>
-    <lastBuildDate>Sun, 15 Jun 2025 09:42:14 -0000</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 15:25:49 -0000</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2025 15:25:49 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,7 +33,7 @@
       
       <description>&lt;h1&gt;Before the Programming&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/</link>
-      <pubDate>Sun, 15 Jun 2025 09:42:14 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 15:25:50 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/</guid>
@@ -48,7 +48,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/</link>
-      <pubDate>Sun, 15 Jun 2025 09:42:14 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 15:25:50 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/</guid>
@@ -63,10 +63,29 @@
       
       <description>&lt;h1&gt;Welcome to my CodedNile&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/</link>
-      <pubDate>Sun, 15 Jun 2025 09:41:43 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 15:25:14 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/</guid>
+      
+    </item>
+    
+    <item>
+      <title>We will write the code in vsCode</title>
+      
+      
+        
+      <author>poula</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;We will write the code in vsCode&lt;/h1&gt;</description>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/we-will-write-the-code-in-vscode/</link>
+      <pubDate>Mon, 16 Jun 2025 15:25:14 +0000</pubDate>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/we-will-write-the-code-in-vscode/</guid>
       
     </item>
     
@@ -82,7 +101,7 @@
       
       <description>&lt;h1&gt;What is The Linux?&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-linux/</link>
-      <pubDate>Sun, 15 Jun 2025 09:41:43 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 15:25:14 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-linux/</guid>
@@ -101,7 +120,7 @@
       
       <description>&lt;h1&gt;What is The Windows?&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-windows/</link>
-      <pubDate>Sun, 15 Jun 2025 09:41:43 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 15:25:14 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-windows/</guid>
@@ -114,13 +133,13 @@
       
       
       
-      <description>&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;technology&lt;/span&gt;&lt;/h2&gt;
+      <description>&lt;h2&gt;&lt;span class=&#34;md-tag&#34;&gt;Before the Programming&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;posts/Before the Programming/ايه-اللينكس-دا.md&#34;&gt;What is The Linux?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[What is The Windows?](posts/Before the ...&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;posts/Before the Programming/vscode.md&#34;&gt;We will write the code in vsCode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[What is The Linux?](p...&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/</link>
-      <pubDate>Sun, 15 Jun 2025 09:41:43 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 15:25:14 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_updated.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/</guid>
