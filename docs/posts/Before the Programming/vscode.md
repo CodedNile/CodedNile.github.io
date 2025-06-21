@@ -17,4 +17,7 @@ authors:
 <!-- more -->
 
 
-Soon
+To Download vsCode
+```
+https://code.visualstudio.com/download
+```
