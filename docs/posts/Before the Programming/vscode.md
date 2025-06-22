@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2025-06-16
+  created: 2025-06-21
   
 categories:
   - Before the Programming  
