@@ -29,6 +29,7 @@ plugins:
       categories_allowed:
         - Before the Programming
         - Dart
+        - Task
       post_url_format: "{slug}"
   - tags:
       tags_file: tags.md
