@@ -14,7 +14,7 @@
             "title": "Tags",
             "content_html": "<h2><span class=\"md-tag\">Before the Programming</span></h2>\n<ul>\n<li><a href=\"posts/Before the Programming/vscode.md\">We will write the code in vsCode</a></li>\n<li>[What is The Linux?](p...</li>\n</ul>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.417759+00:00",
+            "date_modified": "2025-06-28T11:59:24.824025+00:00",
             "authors": [],
             "tags": null
         },
@@ -24,7 +24,17 @@
             "title": "Before the Programming",
             "content_html": "<h1>Before the Programming</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.409447+00:00",
+            "date_modified": "2025-06-28T11:59:24.815337+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/task/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/task/",
+            "title": "Task",
+            "content_html": "<h1>Task</h1>",
+            "image": null,
+            "date_modified": "2025-06-28T11:59:24.814009+00:00",
             "authors": [],
             "tags": null
         },
@@ -34,7 +44,7 @@
             "title": "Dart",
             "content_html": "<h1>Dart</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.408203+00:00",
+            "date_modified": "2025-06-28T11:59:24.812869+00:00",
             "authors": [],
             "tags": null
         },
@@ -44,17 +54,17 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.406899+00:00",
+            "date_modified": "2025-06-28T11:59:24.811683+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statment/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statment/",
-            "title": "01-Control Statment",
-            "content_html": "<h1>01-Control Statment</h1>",
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statementassignment/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statementassignment/",
+            "title": "01-Control Statement(Assignment)",
+            "content_html": "<h1>01-Control Statement(Assignment)</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.405123+00:00",
+            "date_modified": "2025-06-28T11:59:24.810285+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -63,12 +73,26 @@
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/00-orientation/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/00-orientation/",
-            "title": "00-Orientation",
-            "content_html": "<h1>00-Orientation</h1>",
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statement/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statement/",
+            "title": "01-Control Statement",
+            "content_html": "<h1>01-Control Statement</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.398249+00:00",
+            "date_modified": "2025-06-28T11:59:24.798370+00:00",
+            "authors": [
+                {
+                    "name": "poula"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/00-dartorientation-%D9%85%D9%81%D8%AF%D9%85%D8%A9-%D9%81%D9%8A-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%AA/",
+            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/00-dartorientation-%D9%85%D9%81%D8%AF%D9%85%D8%A9-%D9%81%D9%8A-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%AA/",
+            "title": "00-Dart(Orientation) \u0645\u0641\u062f\u0645\u0629 \u0641\u064a \u0644\u063a\u0629 \u0627\u0644\u062f\u0627\u0631\u062a",
+            "content_html": "<h1>00-Dart(Orientation) \u0645\u0641\u062f\u0645\u0629 \u0641\u064a \u0644\u063a\u0629 \u0627\u0644\u062f\u0627\u0631\u062a</h1>",
+            "image": null,
+            "date_modified": "2025-06-28T11:59:24.790986+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -82,7 +106,7 @@
             "title": "What is The Windows?",
             "content_html": "<h1>What is The Windows?</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.386727+00:00",
+            "date_modified": "2025-06-28T11:59:24.780129+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -96,7 +120,7 @@
             "title": "What is The Linux?",
             "content_html": "<h1>What is The Linux?</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.376128+00:00",
+            "date_modified": "2025-06-28T11:59:24.770103+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -110,7 +134,7 @@
             "title": "We will write the code in vsCode",
             "content_html": "<h1>We will write the code in vsCode</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.365384+00:00",
+            "date_modified": "2025-06-28T11:59:24.760214+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -124,7 +148,7 @@
             "title": "Welcome to my CodedNile",
             "content_html": "<h1>Welcome to my CodedNile</h1>",
             "image": null,
-            "date_modified": "2025-06-22T15:13:23.354309+00:00",
+            "date_modified": "2025-06-28T11:59:24.749980+00:00",
             "authors": [],
             "tags": null
         }

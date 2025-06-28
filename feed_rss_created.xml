@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Sun, 22 Jun 2025 15:13:23 -0000</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 15:13:23 -0000</lastBuildDate>
+    <pubDate>Sat, 28 Jun 2025 11:59:24 -0000</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 11:59:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -37,7 +37,7 @@
 &lt;li&gt;[What is The Linux?](p...&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/</guid>
@@ -52,10 +52,25 @@
       
       <description>&lt;h1&gt;Before the Programming&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Task</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Task&lt;/h1&gt;</description>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/task/</link>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/task/</guid>
       
     </item>
     
@@ -67,7 +82,7 @@
       
       <description>&lt;h1&gt;Dart&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/dart/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/dart/</guid>
@@ -82,7 +97,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/</guid>
@@ -90,7 +105,7 @@
     </item>
     
     <item>
-      <title>01-Control Statment</title>
+      <title>01-Control Statement(Assignment)</title>
       
       
         
@@ -99,17 +114,17 @@
       
       
       
-      <description>&lt;h1&gt;01-Control Statment&lt;/h1&gt;</description>
-      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statment/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <description>&lt;h1&gt;01-Control Statement(Assignment)&lt;/h1&gt;</description>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statementassignment/</link>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
-      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statment/</guid>
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statementassignment/</guid>
       
     </item>
     
     <item>
-      <title>00-Orientation</title>
+      <title>01-Control Statement</title>
       
       
         
@@ -118,12 +133,31 @@
       
       
       
-      <description>&lt;h1&gt;00-Orientation&lt;/h1&gt;</description>
-      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/00-orientation/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <description>&lt;h1&gt;01-Control Statement&lt;/h1&gt;</description>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statement/</link>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
-      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/00-orientation/</guid>
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/01-control-statement/</guid>
+      
+    </item>
+    
+    <item>
+      <title>00-Dart(Orientation) مفدمة في لغة الدارت</title>
+      
+      
+        
+      <author>poula</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;00-Dart(Orientation) مفدمة في لغة الدارت&lt;/h1&gt;</description>
+      <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/00-dartorientation-%D9%85%D9%81%D8%AF%D9%85%D8%A9-%D9%81%D9%8A-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%AA/</link>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
+      <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
+      
+      <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/00-dartorientation-%D9%85%D9%81%D8%AF%D9%85%D8%A9-%D9%81%D9%8A-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%AA/</guid>
       
     </item>
     
@@ -139,7 +173,7 @@
       
       <description>&lt;h1&gt;What is The Windows?&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-windows/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-windows/</guid>
@@ -158,7 +192,7 @@
       
       <description>&lt;h1&gt;What is The Linux?&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-linux/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-linux/</guid>
@@ -177,7 +211,7 @@
       
       <description>&lt;h1&gt;We will write the code in vsCode&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/we-will-write-the-code-in-vscode/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/we-will-write-the-code-in-vscode/</guid>
@@ -192,7 +226,7 @@
       
       <description>&lt;h1&gt;Welcome to my CodedNile&lt;/h1&gt;</description>
       <link>https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/</link>
-      <pubDate>Sun, 22 Jun 2025 15:13:23 +0000</pubDate>
+      <pubDate>Sat, 28 Jun 2025 11:59:24 +0000</pubDate>
       <source url="https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_rss_created.xml">CodedNile</source>
       
       <guid isPermaLink="true">https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/</guid>
