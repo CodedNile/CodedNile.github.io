@@ -11,7 +11,7 @@ authors:
   - poula
 ---
 
-# 01-Control Statement(Assignment)
+# Control Statement(Assignment)
 
 <!-- more -->
 
