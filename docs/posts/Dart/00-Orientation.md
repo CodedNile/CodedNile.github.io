@@ -10,7 +10,7 @@ tags:
 authors:
   - poula      
 ---
-# Dart(Orientation) مفدمة في لغة الدارت
+# Dart(Orientation)
 
 
 <!-- more -->
