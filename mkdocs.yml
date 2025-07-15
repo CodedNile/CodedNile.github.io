@@ -30,6 +30,7 @@ plugins:
         - Before the Programming
         - Dart
         - Task
+        - Answer
       post_url_format: "{slug}"
   - tags:
       tags_file: tags.md
