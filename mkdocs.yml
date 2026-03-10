@@ -1,6 +1,6 @@
 site_name: CodedNile
 site_description: Welcome to my channel
-site_url: https://codednile.github.io/
+# site_url: https://codednile.github.io/
 
 theme:
   name: material
@@ -49,7 +49,7 @@ theme:
     - toc.follow
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/custom_theme_v2.css
 
 plugins:
   - search
@@ -78,8 +78,8 @@ plugins:
       type: date
       fallback_to_build_date: false
       enable_creation_date: true
-  - minify:
-      minify_html: true
+#  - minify:
+#      minify_html: true
 
 extra:
   social:
