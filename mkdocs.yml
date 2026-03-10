@@ -1,6 +1,6 @@
 site_name: CodedNile
 site_description: Welcome to my channel
-# site_url: https://codednile.github.io/
+site_url: https://codednile.github.io/
 
 theme:
   name: material
@@ -69,7 +69,6 @@ plugins:
       repository: CodedNile/CodedNile.github.io
       branch: main
       token: !ENV GH_TOKEN
-      use_git: false
   - rss:
       match_path: ".*"
       pretty_print: true

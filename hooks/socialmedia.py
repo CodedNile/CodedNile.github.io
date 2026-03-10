@@ -5,7 +5,11 @@ def on_page_markdown(markdown, page, config, **kwargs):
     if not page.file.src_path.startswith("posts/"):
         return markdown
 
-    page_url = config['site_url'] + page.url
+    site_url = config.get('site_url')
+    if not site_url:
+        return markdown
+
+    page_url = site_url + page.url
     page_title = urllib.parse.quote(page.title)
 
     return markdown + dedent(f"""
