@@ -1,0 +1,125 @@
+/* Modern Typography */
+:root {
+  --md-text-font: "Inter", sans-serif;
+  --md-code-font: "JetBrains Mono", monospace;
+
+  /* Custom primary color overrides for a deeper tech blue */
+  --md-primary-fg-color: #1a237e;
+  --md-primary-fg-color--dark: #0d47a1;
+  --md-primary-bg-color: #ffffff;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #3f51b5;
+  --md-primary-fg-color--dark: #283593;
+}
+
+/* Glassmorphism Header */
+.md-header {
+  background-color: rgba(var(--md-primary-fg-color--rgb), 0.8) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+[data-md-color-scheme="default"] .md-header {
+  background-color: rgba(25, 118, 210, 0.85) !important;
+}
+
+/* Smooth Transitions & Micro-interactions */
+.md-nav__link,
+.md-footer-nav__link,
+.md-tabs__link {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.md-nav__link:hover {
+  color: var(--md-accent-fg-color) !important;
+  background-color: rgba(var(--md-accent-fg-color--rgb), 0.1);
+  padding-left: 0.75rem !important;
+}
+
+/* Refined Sidebar & Spacing */
+.md-sidebar__scrollwrap {
+  scrollbar-width: thin;
+}
+
+.md-nav--primary .md-nav__title {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.65rem;
+  padding: 1rem 0;
+  color: var(--md-typeset-color);
+  opacity: 0.6;
+}
+
+/* Modern Search Bar */
+.md-search__inner {
+  border-radius: 0.5rem;
+  transition: transform 0.2s ease;
+}
+
+.md-search__inner:focus-within {
+  transform: scale(1.02);
+}
+
+.md-search__input {
+  border-radius: 0.5rem !important;
+}
+
+/* Elevated Content Cards */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0.4rem;
+  border-left-width: 0.3rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.md-typeset .admonition:hover {
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Code Block Enhancements */
+.highlight {
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  margin: 1.5rem 0;
+}
+
+/* Make sure copy button is always visible on hover */
+.md-typeset .highlight:hover .md-clipboard {
+  opacity: 1;
+  color: var(--md-accent-fg-color);
+}
+
+.md-clipboard {
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease;
+}
+
+.md-clipboard:hover {
+  background-color: rgba(var(--md-accent-fg-color--rgb), 0.1);
+}
+
+/* Custom Scrollbar for modern look */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+[data-md-color-scheme="slate"] ::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}

@@ -1,80 +1,80 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "CodedNile",
-    "home_page_url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/",
-    "feed_url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/feed_json_updated.json",
+    "home_page_url": "https://codednile.github.io/",
+    "feed_url": "https://codednile.github.io/feed_json_updated.json",
     "description": "Welcome to my channel",
     "icon": null,
     "authors": [],
     "language": "en",
     "items": [
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/tags/",
+            "id": "https://codednile.github.io/tags/",
+            "url": "https://codednile.github.io/tags/",
             "title": "Tags",
             "content_html": "<h2><span class=\"md-tag\">Answer</span></h2>\n<ul>\n<li><a href=\"posts/Dart/02-Control Statement(Answer).md\">Control Statement (Answer)</a></li>\n</ul>\n<h2><span class=\"md-tag\">Before the Program...</h2>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.776481+00:00",
+            "date_modified": "2026-03-10T09:15:47.979291+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/before-the-programming/",
+            "id": "https://codednile.github.io/category/before-the-programming/",
+            "url": "https://codednile.github.io/category/before-the-programming/",
             "title": "Before the Programming",
             "content_html": "<h1>Before the Programming</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.768265+00:00",
+            "date_modified": "2026-03-10T09:15:47.969637+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/task/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/task/",
+            "id": "https://codednile.github.io/category/task/",
+            "url": "https://codednile.github.io/category/task/",
             "title": "Task",
             "content_html": "<h1>Task</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.766847+00:00",
+            "date_modified": "2026-03-10T09:15:47.968157+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/dart/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/dart/",
+            "id": "https://codednile.github.io/category/dart/",
+            "url": "https://codednile.github.io/category/dart/",
             "title": "Dart",
             "content_html": "<h1>Dart</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.765615+00:00",
+            "date_modified": "2026-03-10T09:15:47.966530+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/answer/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/category/answer/",
+            "id": "https://codednile.github.io/category/answer/",
+            "url": "https://codednile.github.io/category/answer/",
             "title": "Answer",
             "content_html": "<h1>Answer</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.764362+00:00",
+            "date_modified": "2026-03-10T09:15:47.965004+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/archive/2025/",
+            "id": "https://codednile.github.io/archive/2025/",
+            "url": "https://codednile.github.io/archive/2025/",
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.762953+00:00",
+            "date_modified": "2026-03-10T09:15:47.963332+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/control-statementassignment/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/control-statementassignment/",
+            "id": "https://codednile.github.io/control-statementassignment/",
+            "url": "https://codednile.github.io/control-statementassignment/",
             "title": "Control Statement(Assignment)",
             "content_html": "<h1>Control Statement(Assignment)</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.761601+00:00",
+            "date_modified": "2026-03-10T09:15:47.961666+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -83,12 +83,12 @@
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/control-statement-answer/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/control-statement-answer/",
+            "id": "https://codednile.github.io/control-statement-answer/",
+            "url": "https://codednile.github.io/control-statement-answer/",
             "title": "Control Statement (Answer)",
             "content_html": "<h1>Control Statement (Answer)</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.750172+00:00",
+            "date_modified": "2026-03-10T09:15:47.938872+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -97,12 +97,12 @@
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/control-statement/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/control-statement/",
+            "id": "https://codednile.github.io/control-statement/",
+            "url": "https://codednile.github.io/control-statement/",
             "title": "Control Statement",
             "content_html": "<h1>Control Statement</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.740908+00:00",
+            "date_modified": "2026-03-10T09:15:47.907954+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -111,12 +111,12 @@
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/dartorientation/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/dartorientation/",
+            "id": "https://codednile.github.io/dartorientation/",
+            "url": "https://codednile.github.io/dartorientation/",
             "title": "Dart(Orientation)",
             "content_html": "<h1>Dart(Orientation)</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.733686+00:00",
+            "date_modified": "2026-03-10T09:15:47.885822+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -125,12 +125,12 @@
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-windows/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-windows/",
+            "id": "https://codednile.github.io/what-is-the-windows/",
+            "url": "https://codednile.github.io/what-is-the-windows/",
             "title": "What is The Windows?",
             "content_html": "<h1>What is The Windows?</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.723023+00:00",
+            "date_modified": "2026-03-10T09:15:47.867262+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -139,12 +139,12 @@
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-linux/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/what-is-the-linux/",
+            "id": "https://codednile.github.io/what-is-the-linux/",
+            "url": "https://codednile.github.io/what-is-the-linux/",
             "title": "What is The Linux?",
             "content_html": "<h1>What is The Linux?</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.713008+00:00",
+            "date_modified": "2026-03-10T09:15:47.848362+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -153,12 +153,12 @@
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/we-will-write-the-code-in-vscode/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/we-will-write-the-code-in-vscode/",
+            "id": "https://codednile.github.io/we-will-write-the-code-in-vscode/",
+            "url": "https://codednile.github.io/we-will-write-the-code-in-vscode/",
             "title": "We will write the code in vsCode",
             "content_html": "<h1>We will write the code in vsCode</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.699364+00:00",
+            "date_modified": "2026-03-10T09:15:47.833643+00:00",
             "authors": [
                 {
                     "name": "poula"
@@ -167,12 +167,12 @@
             "tags": null
         },
         {
-            "id": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/",
-            "url": "https://www.youtube.com/channel/UChcojXFS9lMVDg_xBsfrnIQ/",
+            "id": "https://codednile.github.io/",
+            "url": "https://codednile.github.io/",
             "title": "Welcome to my CodedNile",
             "content_html": "<h1>Welcome to my CodedNile</h1>",
             "image": null,
-            "date_modified": "2025-07-15T11:17:59.689593+00:00",
+            "date_modified": "2026-03-10T09:15:47.819412+00:00",
             "authors": [],
             "tags": null
         }
